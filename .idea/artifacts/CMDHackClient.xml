@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CMDHackClient">
+    <output-path>$PROJECT_DIR$/out/artifacts/CMDHackClient</output-path>
+    <root id="archive" name="CMDHackClient.jar">
+      <element id="module-output" name="CMDHack" />
+    </root>
+  </artifact>
+</component>
